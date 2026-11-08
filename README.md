@@ -4,6 +4,8 @@ Un seul fichier HTML qui documente un modèle Power BI enregistré au format PBI
 
 L'exemple illustré ici est un vrai projet : le [rapport météo des musées](exemple/METEO_MUSEE-documentation.html) (4 tables, 12 mesures, 2 pages). Son export HTML et son export Excel sont fournis dans `exemple/`, pour les ouvrir sans rien installer.
 
+**Essayer en ligne :** [l'outil](https://lolita-debug.github.io/generateur_documentation_pbip/generateur_documentation_francais.html) · [l'exemple documenté](https://lolita-debug.github.io/generateur_documentation_pbip/exemple/METEO_MUSEE-documentation.html)
+
 ![Vue d'ensemble d'un modèle documenté](docs/vue-ensemble.png)
 
 ## Sommaire
