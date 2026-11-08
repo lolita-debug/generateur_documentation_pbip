@@ -1,0 +1,15 @@
+# Projets PBIP déposés pour essai : ne jamais les versionner par erreur
+*.zip
+**/.pbi/cache.abf
+**/.pbi/localSettings.json
+
+# Documentations générées localement (hors exemple/)
+*-documentation.html
+*-documentation.xlsx
+!exemple/*
+
+# Python / système
+__pycache__/
+.DS_Store
+Thumbs.db
+~$*
